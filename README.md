@@ -53,6 +53,12 @@ values.
   (`glm` with `binomial` family and `logit` link), demographic control
   analysis, and hypothesis testing.
 
+## Data Source & Accessibility
+
+* **Dataset**: Taiwan Social Change Survey (TSCS) - 2018 (Round 7, Year 4: Globalization and Culture)
+* **Survey Institution**: Institute of Sociology, Academia Sinica (中央研究院社會學研究所)
+* **Access Policy**: In compliance with academic licensing and data distribution agreements from the Survey Research Data Archive (SRDA), the raw dataset (`.rda` / `.csv`) is not hosted in this repository. 
+
 ------------------------------------------------------------------------
 
 # 2. TL;DR
